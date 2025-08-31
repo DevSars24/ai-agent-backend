@@ -1,0 +1,14 @@
+{
+  "name": "genai3",
+  "version": "1.0.0",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "readline-sync": "^1.4.10",
+    "dotenv": "^16.4.5"
+  }
+}
